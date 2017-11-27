@@ -5,7 +5,7 @@ weekly reinforcement learning paper reviews
 
 * Nov 22
   - 2017, A Distributional Perspective on Reinforcement Learning [`PAPER`](https://arxiv.org/abs/1707.06887) [`NOTE`](https://github.com/rlcode/paper-reviews/blob/master/C51.md) - review by [Woongwon](https://github.com/orgs/rlcode/people/dnddnjs)
-  - 2014, Deterministic Policy Gradient Algorithms [`PAPER`](http://proceedings.mlr.press/v32/silver14.pdf) - review by [Chanwoong](https://github.com/orgs/rlcode/people/jcwleo)
+  - 2014, Deterministic Policy Gradient Algorithms [`PAPER`](http://proceedings.mlr.press/v32/silver14.pdf) - review by [Chanwoong](https://github.com/rlcode/paper-reviews/blob/master/DPG.md)
 * Nov 29
   - 2010, On a Connection between Importance Sampling and the Likelihood Ratio Policy Gradient [`PAPER`](http://rll.berkeley.edu/~jietang/pubs/nips10_Tang.pdf) - review by [Brian](https://github.com/orgs/rlcode/people/wooridle)
   - 2017, Curiosity-driven Exploration by Self-supervised Prediction [`PAPER`](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) - review by [Youngmoo](https://github.com/orgs/rlcode/people/zzing0907)
