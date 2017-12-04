@@ -11,7 +11,7 @@ weekly reinforcement learning paper reviews
   - 2017, Curiosity-driven Exploration by Self-supervised Prediction [`PAPER`](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) - review by [Youngmoo](https://github.com/orgs/rlcode/people/zzing0907)
 
 * Dec 5
-  - TODO
+  - 2015, Prioritized Experience Replay [`PAPER`](https://arxiv.org/abs/1511.05952) - review by [Chanwoong](https://github.com/orgs/rlcode/people/jcwleo)
   - TODO
   
 ## Interesting Papers
