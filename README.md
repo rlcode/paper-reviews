@@ -12,7 +12,7 @@ weekly reinforcement learning paper reviews
 
 * Dec 5
   - 2015, Prioritized Experience Replay [`PAPER`](https://arxiv.org/abs/1511.05952) [`NOTE`](https://github.com/rlcode/paper-reviews/blob/master/PER.md) - review by [Chanwoong](https://github.com/orgs/rlcode/people/jcwleo)
-  - 2017, Curiosity-driven Exploration by Self-supervised Prediction [`PAPER`](https://arxiv.org/pdf/1705.05363.pdf) - review by [Youngmoo](https://github.com/orgs/rlcode/people/zzing0907)
+  - 2017, Curiosity-driven Exploration by Self-supervised Prediction [`PAPER`](https://arxiv.org/pdf/1705.05363.pdf)[`NOTE`](https://github.com/rlcode/paper-reviews/blob/master/NoRewardRL.md) - review by [Youngmoo](https://github.com/orgs/rlcode/people/zzing0907)
 
 ## Interesting Papers
 - 2016, Personalizing a Dialogue System with Transfer Reinforcement Learning [`PAPER`](https://arxiv.org/pdf/1610.02891.pdf)
