@@ -26,3 +26,4 @@ weekly reinforcement learning paper reviews
 - 2016, Deep Reinforcement Learning for Dialogue Generation [`PAPER`](https://arxiv.org/abs/1606.01541)
 - 2017, Learning to Act by Predicting the Future [`PAPER`](https://arxiv.org/pdf/1611.01779.pdf)
 - 2017, Proximal Policy Optimization Algorithms [`PAPER`](https://arxiv.org/pdf/1707.06347.pdf)
+- 2017, Efficient Parallel Methods for Deep Reinforcement Learning [`PAPER`](https://arxiv.org/abs/1705.04862.pdf)
