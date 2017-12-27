@@ -1,4 +1,4 @@
-# Paper Reviews
+# P.aper Reviews
 weekly reinforcement learning paper reviews
 
 ## Reviewed Papers
