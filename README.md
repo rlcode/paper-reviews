@@ -16,7 +16,7 @@ weekly reinforcement learning paper reviews
 * Dec 20 2017
   - 2016, Sample Efficient Actor-Critic with Experience Replay [`PAPER`](https://arxiv.org/abs/1611.01224) - review by [Brian](https://github.com/orgs/rlcode/people/wooridle)
 
-* Jan 03 2018
+* Dec 30 2017
   - 2015, Trust Region Policy Optimization [`PAPER`](https://arxiv.org/pdf/1502.05477.pdf) - review by [Woongwon](https://github.com/orgs/rlcode/people/dnddnjs)
 
 
