@@ -15,9 +15,12 @@ weekly reinforcement learning paper reviews
 
 * Dec 20 2017
   - 2016, Sample Efficient Actor-Critic with Experience Replay [`PAPER`](https://arxiv.org/abs/1611.01224) - review by [Brian](https://github.com/orgs/rlcode/people/wooridle)
+  - 2017, Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning[EMNLP 2017] [`PAPER`](https://arxiv.org/abs/1704.03084)
+  [`NOTE`](https://github.com/rlcode/paper-reviews/blob/master/DialogueHierarchicalRL.md)- review by [Hyeokreal](https://github.com/orgs/rlcode/people/hyeokreal)
 
 * Dec 30 2017
   - 2015, Trust Region Policy Optimization [`PAPER`](https://arxiv.org/pdf/1502.05477.pdf) - review by [Woongwon](https://github.com/orgs/rlcode/people/dnddnjs)
+
 
 
 ## Interesting Papers
