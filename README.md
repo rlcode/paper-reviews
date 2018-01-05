@@ -21,7 +21,8 @@ weekly reinforcement learning paper reviews
 * Dec 30 2017
   - 2015, Trust Region Policy Optimization [`PAPER`](https://arxiv.org/pdf/1502.05477.pdf) - review by [Woongwon](https://github.com/orgs/rlcode/people/dnddnjs)
 
-
+* Jan 3 2018
+  - 2017, Deep Q-learning from Demonstrations [`PAPER`](https://arxiv.org/abs/1704.03732) - review by [Chris Hoyean Song](https://github.com/orgs/rlcode/people/chris-chris)
 
 ## Interesting Papers
 - 2016, Personalizing a Dialogue System with Transfer Reinforcement Learning [`PAPER`](https://arxiv.org/pdf/1610.02891.pdf)
