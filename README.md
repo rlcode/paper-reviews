@@ -1,4 +1,4 @@
-# P.aper Reviews
+# Paper Reviews
 weekly reinforcement learning paper reviews
 
 ## Reviewed Papers
@@ -19,7 +19,7 @@ weekly reinforcement learning paper reviews
   [`NOTE`](https://github.com/rlcode/paper-reviews/blob/master/DialogueHierarchicalRL.md)- review by [Hyeokreal](https://github.com/orgs/rlcode/people/hyeokreal)
 
 * Dec 30 2017
-  - 2015, Trust Region Policy Optimization [`PAPER`](https://arxiv.org/pdf/1502.05477.pdf) - review by [Woongwon](https://github.com/orgs/rlcode/people/dnddnjs)
+  - 2015, Trust Region Policy Optimization [`PAPER`](https://arxiv.org/pdf/1502.05477.pdf) [`NOTE`](https://github.com/rlcode/paper-reviews/blob/master/TRPO.md) - review by [Woongwon](https://github.com/orgs/rlcode/people/dnddnjs)
 
 * Jan 3 2018
   - 2017, Deep Q-learning from Demonstrations [`PAPER`](https://arxiv.org/abs/1704.03732) - review by [Chris Hoyean Song](https://github.com/orgs/rlcode/people/chris-chris)
